@@ -1,7 +1,7 @@
 
 # Snake Game - Turtle Graphics
 
-This is a classic Snake game built using Python's `turtle` graphics.  It is designed with a grid for a better player experience
+This is a classic Snake game built using Python's `turtle` graphics.  It is designed with a grid for a better player experience. It's a great examples for the advantages of OOP.
 
 ## Features
 - **Snake Movement**: Control the snake using `W`, `A`, `S`, and `D` keys for up, left, down, and right movements.
